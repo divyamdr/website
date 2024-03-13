@@ -1,7 +1,7 @@
-baseURL: "https://hugo-profile.netlify.app"
+
 languageCode: "en-us"
-title: "Hugo Profile"
-theme: hugo-profile
+title: "Divya"
+theme: Website
 
 outputs:
   home:
@@ -153,19 +153,35 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+       I am Divya Malyala, an experienced Data Engineer with a focus on Big Data and Machine Learning. My journey in the
+        realm of technology has equipped me with a proven track record of designing robust data solutions and optimizing
+        pipelines. I thrive in problem-solving, leadership, and effective collaboration, with excellent written and verbal
+        communication skills.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+
+        - "Python"
+        - "Java"
+        - "C/C++"
+        - "Javascript"
+        - "SQL"
+        - "MySQL"
+        - "Oracle"
+        - "Hadoop"
+        - "Apache Spark"
+        - "Big Data"
+        - "Apache Flink"
+        - "Apache Airflow"
+        - "Pandas"
+        - "Keras"
+        - "NumPy"
+        - "PyTorch"
+        - "Spring Boot"
+        - "REST APIs"
+        - ""
+
 
   # Experience
   experience:
@@ -226,11 +242,7 @@ params:
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      
 
   # Education
   education:
