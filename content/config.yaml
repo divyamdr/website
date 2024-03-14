@@ -1,7 +1,7 @@
 baseURL: "https://dmalyala.com"
 languageCode: "en-us"
 title: "Hugo Profile"
-theme: hugo-profile
+theme: website
 
 outputs:
   home:
